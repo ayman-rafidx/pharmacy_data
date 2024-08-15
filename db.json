@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "tip": "Drink plenty of water to stay hydrated.",
+        "doctor_name": "Dr. John Doe"
+    },
+    {
+        "id": 2,
+        "tip": "Exercise regularly to maintain a healthy body.",
+        "doctor_name": "Dr. Jane Smith"
+    },
+    {
+        "id": 3,
+        "tip": "Eat a balanced diet rich in fruits and vegetables.",
+        "doctor_name": "Dr. Emily Johnson"
+    },
+    {
+        "id": 4,
+        "tip": "Get enough sleep to allow your body to recover.",
+        "doctor_name": "Dr. Michael Brown"
+    },
+    {
+        "id": 5,
+        "tip": "Wash your hands frequently to prevent the spread of germs.",
+        "doctor_name": "Dr. Sarah Davis"
+    }
+]
